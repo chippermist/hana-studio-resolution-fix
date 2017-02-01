@@ -9,4 +9,4 @@ Hana Studio Resolution Fix
 
 #Screenshot
 ----------------
-![Alt text](hana-studio-resolution-fix/HANA_Studio_MSFT_SBK_FIX.PNG?raw=true "After fix on Surface Book")
+![Screenshot](https://github.com/chippermist/hana-studio-resolution-fix/blob/master/HANA_Studio_MSFT_SBK_FIX.PNG)
